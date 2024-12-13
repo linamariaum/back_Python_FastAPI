@@ -39,6 +39,11 @@ Comando 'uvicorn ["Nombre_archivo"]:app --reload'
 
 Se iniciará la aplicación FastAPI en el puerto por defecto (normalmente 8000) con la recarga automática activada, de modo que la aplicación se recargará automáticamente cuando realice cambios en el código.
 
+## Servicio GET
+
+![image](https://github.com/user-attachments/assets/62063b78-4bb7-441e-ad8d-3e648a466405)
+
+
 El servicio levanta y crea un enlace de documentación interactiva
 `http://127.0.0.1:8000/docs`
 
